@@ -1,2 +1,2 @@
 # arcademy-test-syamsul
-tes masuk
+JSON merupakan bahasa standar untuk pertukaran data berupa teks. Dengan menggunakan syntax yang sederhana yang dapat dimengerti manusia dan banyak juga bahasa pemrograman yang dapat membuat dan membaca data ini,  data JSON berupa number, string, array dan object dalam bentuk teks. pada rest API data yang diperlukan oleh pengembang dalam pengembangkan aplikasi tidak perlu diberi akses langsung ke database tetapi pengembang hanya mengakses data JSON yg disediakan.
